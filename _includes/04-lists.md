@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Back-End
+  * Java
+  * Spring Boot
+* Mongo DB
+* Front-End
+  * Javascript
+  * HTML
+  * CSS
+  * React JS
